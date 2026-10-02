@@ -224,3 +224,23 @@ Add HTTPS using ACM
 Add Route 53 DNS
 Deploy the infrastructure using Terraform
 Add CI/CD automation
+
+## Screenshots
+
+### VPC Configuration
+![VPC Overview](screenshots/vpc-overview.png)
+
+### EC2 Instances
+![EC2 Instances](screenshots/ec2-instances.png)
+
+### Application Load Balancer
+![Load Balancer](screenshots/load-balancer.png)
+
+### Target Group Health
+![Target Group](screenshots/target-group-healthy.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](screenshots/auto-scaling-group.png)
+
+### High Availability Test
+![HA Test](screenshots/ha-test.png)
