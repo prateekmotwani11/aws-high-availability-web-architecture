@@ -20,6 +20,10 @@ The environment was built from scratch to demonstrate load balancing, health che
 - Security Groups
 - EC2 User Data
 
+## Architecture Diagram
+
+![AWS High Availability Architecture](docs/architecture-diagram.png)
+
 ## Architecture Flow
 
 ```mermaid
